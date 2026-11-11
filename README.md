@@ -6,13 +6,22 @@
   I'm an Information Technology undergraduate with a strong interest in backend logic, data structures, and practical software solutions. Currently, I'm heavily involved in Python development, building transactional systems with dynamic data storage, input validation, and complex logical workflows. I enjoy understanding how systems operate under the hood—from operating systems to computer networks and translating that knowledge into functional, efficient code.
 </p>
 
-
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kholid14-o&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kholid14-o&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kholid14-o&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# Contributions:
+<p align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholid14-o/kholid14-o/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholid14-o/kholid14-o/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kholid14-o/kholid14-o/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=kholid14-o&icon=0&color=0)](https://visitcount.itsvg.in)
