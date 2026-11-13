@@ -3,7 +3,7 @@
 </p>
 
 <p align='justify'>
-  I'm an Information Technology undergraduate with a strong interest in backend logic, data structures, and practical software solutions. Currently, I'm heavily involved in Python development, building transactional systems with dynamic data storage, input validation, and complex logical workflows. I enjoy understanding how systems operate under the hood—from operating systems to computer networks and translating that knowledge into functional, efficient code.
+  I'm an Information Technology undergraduate with a strong interest in backend logic, data structures, and practical software solutions. Currently, I'm heavily involved in Python development, building transactional systems with dynamic data storage, input validation, and complex logical workflows. I enjoy understanding how systems operate under the hood from operating systems to computer networks and translating that knowledge into functional, efficient code.
 </p>
 
 # Tech Stack:
